@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portland-or-97239.onrender.com/sitemap.xml
+Sitemap: https://portland-or-97239.onrender.com/portland-property-management/sitemap.xml
