@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: portland-or-97239
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
